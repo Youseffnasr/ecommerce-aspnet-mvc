@@ -17,15 +17,24 @@ The system simulates a real online store with complete product, user, and order 
 
 ---
 
+## 🔑 Admin Test Credentials
+
+> ⚠️ For testing purposes only
+
+- Email: Admin@test.com  
+- Password:Admin@2025  
+
+---
+
 ## 🛠️ Technologies Used
 
-- ASP.NET MVC
-- C#
-- Entity Framework
-- SQL Server
-- HTML5
-- CSS3
-- JavaScript
+- ASP.NET MVC  
+- C#  
+- Entity Framework  
+- SQL Server  
+- HTML5  
+- CSS3  
+- JavaScript  
 - Bootstrap (if used)
 
 ---
@@ -38,24 +47,13 @@ Views       → UI pages (Razor Views)
 Controllers → Business logic and routing
 ```
 
----
 
-## 📸 Screenshots
-
-> Add screenshots here to make the project stronger
-
-- Home Page  
-- Product List  
-- Cart Page  
-- Admin Dashboard  
-
----
 
 ## ⚙️ How to Run the Project
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecommerce-aspnet-mvc.git
+git clone https://github.com/Youseffnasr/ecommerce-aspnet-mvc.git
 ```
 
 2. Open the project in Visual Studio
@@ -79,4 +77,4 @@ This project was developed to practice full-stack web development using ASP.NET 
 ## 👨‍💻 Author
 
 - GitHub: https://github.com/yourusername
-- Name: Your Name
+- Name: Yousef Nasr 
