@@ -1,5 +1,4 @@
 🛒 E-Commerce Web Application (ASP.NET MVC)
-
 A full-stack e-commerce web application built using ASP.NET MVC and SQL Server.
 The system simulates a real online store with complete product, user, and order management features.
 
@@ -11,8 +10,6 @@ The system simulates a real online store with complete product, user, and order 
 👤 Role-based access (Admin / User)
 💾 Database integration using SQL Server
 🎨 Responsive UI using HTML, CSS, and JavaScript
-
-
 🛠️ Technologies Used
 ASP.NET MVC
 C#
@@ -21,41 +18,34 @@ SQL Server
 HTML5
 CSS3
 JavaScript
-Bootstrap
-
+Bootstrap (if used)
 📂 Project Architecture
 Models      → Data models (Product, User, Order)
 Views       → UI pages (Razor Views)
 Controllers → Business logic and routing
+📸 Screenshots
+Add screenshots here to make the project stronger
 
-
-🔑 Demo Accounts
-
-You can use the following accounts to explore the system:
-
-Admin Account
-Email: admin@test.com
-Password: Admin@123
-User Account
-Email: user@test.com
-Password: User@123
-Note: These accounts are for testing purposes only.
-
-
+Home Page
+Product List
+Cart Page
+Admin Dashboard
 ⚙️ How to Run the Project
 Clone the repository:
 git clone https://github.com/yourusername/ecommerce-aspnet-mvc.git
 Open the project in Visual Studio
-Restore NuGet packages
-Configure SQL Server connection string in Web.config
-Run database migrations (if using Entity Framework)
-Start the application
 
+Restore NuGet packages
+
+Configure SQL Server connection string in Web.config
+
+Run database migrations (if using Entity Framework)
+
+Start the application
 
 🎯 Project Purpose
 This project was developed to practice full-stack web development using ASP.NET MVC, focusing on real-world e-commerce system functionality including authentication, product management, and order processing.
 
-
 👨‍💻 Author
-GitHub: https://github.com/Youseffnasr
-Name: Yousef nasr
+GitHub: https://github.com/yourusername
+Name: Your Name
