@@ -26,7 +26,7 @@ The system simulates a real online store with complete product, user, and order 
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (if used)
+- Bootstrap 
 
 ---
 
